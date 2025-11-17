@@ -1,50 +1,58 @@
 # Example Prompts for PromptPolish
 
-These are sample prompts used to demonstrate how PromptPolish transforms rough inputs into refined, clear versions.
+Below are sample inputs you can use to test the tone-rewriting features of PromptPolish.
 
 ---
 
-## 1. Friendly Tone  
+### 1. Friendly Tone
 **Input:**  
-"explain neural networks in a simple way"
+"Please help me rewrite my resume summary."
 
-**Polished Output:**  
-"Could you explain neural networks in a simple, easy-to-understand way?"
+**Output:**  
+"[Tone: friendly]
+
+Sure! I'd love to help you improve your resume summary. Could you share the current version with me?"
 
 ---
 
-## 2. Interview-Appropriate Tone  
+### 2. Corporate Tone
 **Input:**  
-"write me points for why I fit this job"
+"Rewrite this email to sound more professional."
 
-**Polished Output:**  
-"Could you help me outline key points that explain why I would be a strong fit for this role?"
+**Output:**  
+"[Tone: corporate]
+
+Kindly provide the text of the email, and I will rephrase it in a concise and professional tone suitable for corporate communication."
 
 ---
 
-## 3. Empathetic Tone  
+### 3. Assertive Tone
 **Input:**  
-"my friend is sad what message should I send"
+"I want to ask my teammate to complete a task."
 
-**Polished Output:**  
-"What is a kind, supportive message I can send to a friend who is feeling low?"
+**Output:**  
+"[Tone: assertive]
+
+Please ensure the assigned task is completed by the agreed deadline. Let me know if you require any clarification."
 
 ---
 
-## 4. Corporate Tone  
+### 4. Interview-Appropriate Tone
 **Input:**  
-"give me an email to ask for deadline extension"
+"Help me rewrite this answer for an interview question."
 
-**Polished Output:**  
-"Could you draft a professional email requesting an extension for the project deadline?"
+**Output:**  
+"[Tone: interview]
+
+Certainly! Please share your draft answer and I will refine it to make it structured, confident, and interview-ready."
 
 ---
 
-## 5. Assertive Tone  
+### 5. Empathetic Tone
 **Input:**  
-"tell them to send the document fast"
+"My friend is upset. Rewrite something comforting."
 
-**Polished Output:**  
-"Please write a firm request asking the recipient to share the document as soon as possible."
+**Output:**  
+"[Tone: empathetic]
 
----
+I'm really sorry you're going through this. If you ever need to talk, I'm always here for you."

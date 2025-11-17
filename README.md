@@ -76,6 +76,7 @@ print(polish_prompt(
 
 📬 Contact
 Developer: Akanksha Ramesh Yadav
+Email ID: akankshay200803@gmail.com
 Feel free to explore, fork, or extend this project!
 
 ⭐ Why This Project?
@@ -93,5 +94,4 @@ Prompt Engineer
 LLM Content Specialist
 GenAI Associate
 LLM Content Specialist
-
 GenAI Associate

@@ -1,0 +1,22 @@
+{
+  "friendly": {
+    "description": "Warm, casual, positive, easy-to-understand tone.",
+    "example": "Hey! Here's your updated text—kept it simple and friendly!"
+  },
+  "interview-appropriate": {
+    "description": "Professional, concise, respectful, and confident tone ideal for interview or corporate settings.",
+    "example": "Here is the refined version of your response, keeping it formal yet natural."
+  },
+  "empathetic": {
+    "description": "Emotionally understanding, supportive, and comforting.",
+    "example": "I understand how you’re feeling—here’s a clearer and kinder way to express it."
+  },
+  "corporate": {
+    "description": "Formal, structured, business-oriented, polished.",
+    "example": "Please find the revised version below, optimized for corporate communication."
+  },
+  "assertive": {
+    "description": "Confident, clear, direct, but still respectful.",
+    "example": "Here is an improved version that communicates your point with clarity and confidence."
+  }
+}

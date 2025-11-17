@@ -95,3 +95,11 @@ LLM Content Specialist
 GenAI Associate
 LLM Content Specialist
 GenAI Associate
+
+---
+
+## Contribution Policy
+
+This project is part of my personal portfolio and is **not open for external contributions** at the moment.  
+You are welcome to explore the code and ideas, but pull requests and changes will not be accepted.  
+Thank you for understanding!
